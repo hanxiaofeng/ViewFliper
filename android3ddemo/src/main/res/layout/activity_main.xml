@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.wangkeke.android3ddemo.MainActivity">
+
+    <Button
+        android:id="@+id/btnIncrease"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="btnIncrease" />
+
+
+    <TextView
+        android:id="@+id/txtNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/number_bg"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="20dp"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:text="测试Demo"
+        />
+
+
+    <Button
+        android:id="@+id/btnDecrease"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="btnDecrease" />
+</LinearLayout>
