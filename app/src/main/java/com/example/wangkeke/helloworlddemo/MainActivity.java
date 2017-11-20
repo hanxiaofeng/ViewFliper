@@ -36,12 +36,8 @@ public class MainActivity extends Activity implements GestureDetector.OnGestureL
 
     Animation rightOutAnimation;
 
-    private static final int DELAY_TIME = 5000;
+    private static final int DELAY_TIME = 3000;
 
-    @Bind(R.id.name)
-    TextView mTextViewName;
-    @Bind(R.id.age)
-    TextView mTextViewAge;
     @Bind(R.id.image_one)
     ImageView imageOne;
 //    @Bind(R.id.image_two)

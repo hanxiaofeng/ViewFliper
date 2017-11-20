@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloWorldDemo.iml" filepath="$PROJECT_DIR$/HelloWorldDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewFliper.iml" filepath="$PROJECT_DIR$/ViewFliper.iml" />
       <module fileurl="file://$PROJECT_DIR$/android3ddemo/android3ddemo.iml" filepath="$PROJECT_DIR$/android3ddemo/android3ddemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nineoldanimdemo/nineoldanimdemo.iml" filepath="$PROJECT_DIR$/nineoldanimdemo/nineoldanimdemo.iml" />
     </modules>
   </component>
 </project>

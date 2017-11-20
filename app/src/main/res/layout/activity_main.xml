@@ -5,29 +5,10 @@
     android:layout_height="match_parent"
     tools:context="com.example.wangkeke.helloworlddemo.MainActivity">
 
-    <TextView
-        android:id="@+id/name"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="name"
-        android:visibility="gone" />
-
-
-    <TextView
-        android:id="@+id/age"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:text="age"
-        android:visibility="gone" />
-
-
-
-
     <ViewFlipper
         android:id="@+id/flipper"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="250dp">
 
         <ImageView
             android:id="@+id/image_one"
@@ -86,6 +67,7 @@
         android:layout_alignBottom="@+id/flipper"
         android:orientation="horizontal">
     </LinearLayout>
+
 
 
 
